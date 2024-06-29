@@ -4,7 +4,7 @@ channels:
 dependencies:
   - python=3.8.15
 
-  # support multiple kernels in multiple conda envs
+  # support multiple kernels in multiple conda environments
   - nb_conda_kernels=2.3.1
 
   # kerberos for HPC authentication
