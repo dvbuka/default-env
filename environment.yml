@@ -17,7 +17,7 @@ dependencies:
   - nbgrader=0.8.1
 
   # scipy stack for general scientific computation
-  - numpy=1.23.5
+  - numpy=1.24.0
   - scipy=1.9.3
   - matplotlib=3.6.2
   - pandas=1.5.2
@@ -181,7 +181,7 @@ dependencies:
   - xeus-cling=0.13.0
 
   # sagemath (kernel included)
-  - sage=9.4
+  # - sage=9.4
 
   # ipyparallel
   - ipyparallel=8.4.1
