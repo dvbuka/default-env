@@ -44,11 +44,11 @@ dependencies:
 
   # faster expression evaluator, jit compiler, and array functions for numpy
   - numexpr=2.8.3
-  - numba=0.56.4
+  - numba=0.60.0
   - bottleneck=1.3.5
 
   # extending python and allowing it to interop with C for performance
-  - cython=0.29.32
+  - cython=3.0.11
 
   # python wrapper for ipopt for nonlinear optimization
   - cyipopt=1.2.0
