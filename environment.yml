@@ -187,7 +187,7 @@ dependencies:
   #- ipyparallel=8.4.1
 
   # allow installation of pip packages
-  #- pip=22.3.1
+  - pip=22.3.1
 
   - pip:
 
