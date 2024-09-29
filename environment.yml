@@ -178,10 +178,10 @@ dependencies:
   - r-maptools=1.1_5
 
   # c++ kernel
-  - xeus-cling=0.13.0
+  ###- xeus-cling=0.13.0
 
   # sagemath (kernel included)
-  # - sage=9.4
+  ### - sage=9.4
 
   # ipyparallel
   - ipyparallel=8.4.1
